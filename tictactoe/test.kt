@@ -1,5 +1,0 @@
-package tictactoe
-
-class test {
-
-}
